@@ -1,0 +1,7 @@
+--todo--
+--> delete with check boxes
+--> top 10 records with pagination
+--> minify css in tourflow (serverside pdf)
+--> db optimizations(id length(fixed int length 6),indexes)
+--> form validation (server side + client side)
+--> Auto logoff Timeout

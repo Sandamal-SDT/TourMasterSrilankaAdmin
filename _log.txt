@@ -5,6 +5,8 @@
     -> Font size in print pages should increase (font too small ) -ok
     -> Bank details doesn't need header and footer. -ok
 
+--> 2016-5-29
+	-> added to GIT
 
 
 
